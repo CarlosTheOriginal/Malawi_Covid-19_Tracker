@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Malawi Covid-19 Tracker</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="error">Error</string>
+    <string name="active">Active</string>
+    <string name="deaths">Deaths</string>
+    <string name="recovered">Recovered</string>
+    <string name="total">Total</string>
+    <string name="refresh">Refresh</string>
+    <string name="last_updated_on">Last updated on:</string>
+</resources>
